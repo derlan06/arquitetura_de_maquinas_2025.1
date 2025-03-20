@@ -1,0 +1,1 @@
+# arquitetura_de_maquinas_2025.1
