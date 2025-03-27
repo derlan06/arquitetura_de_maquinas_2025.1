@@ -55,29 +55,30 @@ Relatório Acadêmico: Tipos de Unidades de Estado Sólido (SSDs)
 
 1. Introdução
 As Unidades de Estado Sólido, ou SSDs, são dispositivos de armazenamento que têm revolucionado a forma como guardamos e acessamos dados. Ao contrário dos tradicionais discos rígidos (HDDs), que utilizam partes móveis para ler e gravar informações, os SSDs funcionam com memória flash, o que os torna muito mais rápidos e resistentes. Neste relatório, vamos explorar os diferentes tipos de SSDs, suas características e onde eles são mais utilizados.
+
+
 2. Tipos de SSDs
+
+
 2.1. SSDs Internos
 Os SSDs internos são aqueles que você encontra dentro do seu computador. Eles são responsáveis por armazenar o sistema operacional, programas e arquivos pessoais. Vamos conhecer os principais tipos:
 SSDs SATA (Serial ATA): Esses são os SSDs mais comuns e utilizam a mesma conexão que muitos HDDs. Embora sejam mais rápidos que os HDDs, suas velocidades variam de 300 a 600 MB/s. Eles são uma ótima opção para quem quer dar um upgrade no desempenho do computador sem gastar muito.
 SSDs NVMe (Non-Volatile Memory Express): Se você precisa de velocidade, os SSDs NVMe são a escolha certa. Eles usam uma conexão PCIe, permitindo que os dados sejam transferidos a velocidades que podem ultrapassar 3.500 MB/s. Isso os torna ideais para gamers e profissionais que trabalham com edição de vídeo.
 SSDs M.2: Esses SSDs têm um formato compacto e podem usar tanto a conexão SATA quanto a NVMe. Eles são frequentemente encontrados em laptops e placas-mãe modernas, oferecendo uma solução de armazenamento que economiza espaço.
 
-
-
-
-
 2.2. SSDs Externos
 Os SSDs externos são como pequenos baús de tesouro que você pode levar para qualquer lugar. Eles se conectam ao computador via USB ou Thunderbolt e são perfeitos para backups e armazenamento extra. Existem dois tipos principais:
 Portáteis: Geralmente do tamanho de um disco rígido de 2,5 polegadas, esses SSDs são alimentados pela conexão USB, tornando-os super fáceis de usar e transportar.
 Desktop: Um pouco maiores, normalmente de 3,5 polegadas, esses SSDs precisam de uma fonte de alimentação externa e oferecem mais espaço para armazenar seus dados.
+
 2.3. SSDs para Servidores e Estações de Trabalho
 Esses SSDs são projetados para ambientes corporativos e são feitos para funcionar 24 horas por dia, 7 dias por semana. Eles são otimizados para desempenho e confiabilidade, geralmente utilizando a conexão NVMe, o que os torna ideais para aplicações que exigem alta taxa de transferência de dados.
+
 2.4. Tipos de SSDs Baseados em Interface
 Os SSDs também podem ser classificados pela forma como se conectam ao computador. Aqui estão as principais interfaces:
 SATA: Uma conexão comum que oferece velocidades limitadas, mas ainda assim é uma boa opção para muitos usuários.
 PCIe: Essa conexão é utilizada pelos SSDs NVMe e oferece uma largura de banda muito maior, permitindo que os SSDs alcancem velocidades impressionantes.
 Thunderbolt: Uma interface de alta velocidade que permite que SSDs externos funcionem quase tão rápido quanto os internos, ideal para transferências rápidas de dados.]
-
 
 
 3. Considerações Finais
