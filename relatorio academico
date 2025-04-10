@@ -1,0 +1,109 @@
+Relatório Acadêmico: Principais  Estrutura Unidades de Estado Sólido (SSDs)
+
+
+Introdução
+os ssd são compostos por diversos chips de memória flash instalados em uma placa 
+de circuito integrados e um controlador.
+
+
+
+PRINCIPAIS COMPONENTES E SUAS FUNÇÕES (SSD)
+
+
+
+Componentes
+
+ controlador: do ssd é um chip responsável pelo controle principal do ssd . como a entrada e saída ou seja responsável pela leitura e gravação de dados e até a coleta de lixo e algoritmo de equalização para garantir a velocidade e a limpeza do ssd. o controlador e a ponte de ligação  do ssd.
+
+Algoritmos de firmware 
+
+ firmware: e usado para acionar o controlados e o componente mais importante para garantir um bom do ssd . sendo assim o chip de controle mestre que usa  programa de controle de no algoritmo de firmware do ssd para realizar tarefas como código de correção de erros , gerenciamento de blocos ruim, comunicação com os dispositivo conectado como o computador ou console , responsável pela criptografia de dados .
+
+Memória flash
+
+flash: todos os dados do usuário são armazenados em flash nand , o NAND  e a maior parte do armazenamento , ele é tanto responsável pela vida útil do ssd como também pela grande diferença de desempenho dos ssd .
+
+DIFERENTES  TIPOS FLASH
+
+SLC(célula de nível único) Padrão empresarial = apenas 1 bit
+
+MLC(célula de vários níveis) Amplamente usada = apenas 2 bit
+
+TLC(nível trinário) Emergente = 3 bit
+
+
+
+ Considerações Finais
+A maior eficiência dos SSDs em termos de velocidade não se deve apenas à ausência de partes móveis, mas também à sua organização interna. O firmware, responsável pela comunicação com a máquina (placa-mãe), envia as instruções para o controlador, que acessa diretamente a célula de memória desejada, contribuindo significativamente para sua velocidade.
+
+
+
+
+
+Relatório Acadêmico: Hard Drive (HD)
+
+
+1.introdução
+
+Os HD são um estrutura física que é responsável por armazenar
+informação. que usa um  conjunto de mecanismo principais, 
+são estes o  discos ou platters, cabeça de leitura e também
+Atuador, braço atuador e eixo atuador.
+
+
+PRINCIPAIS COMPONENTES E SUAS FUNÇÕES(HD)
+
+
+
+O DISCO geralmente é feito de alumínio que é o mais popular, porém também pode ser encontrado em cerâmica ou vidro .
+
+Ele é coberto por uma camada de material magnético , que quanto mais denso mais capacidade ele tem, pois é justamente no campo magnético que é gravado os dados.
+
+
+
+ cabeça de leitura
+
+Cabeção de leitura e responsável por ler e escrever os dados no disco
+
+ele usa a rotação do disco em alta velocidade utilizando minúsculos eletroímãs para produzir  rastros de  correntes elétricos assim permitindo a leitura e gravação dos dados, com uma pluralidade alterável do eletroímãs . variando de positivo para negativo , ele vai alterando a superfície magnética do disco , assim com a direção definida de pólo, conseguimos bits que varia de 1 a 0 bits  no computador.
+
+
+
+Atuador, braço atuador e eixo atuador
+
+O eixo atuador é a peça central , funcionando como um gatilho para início do movimento da cabeça de leitura .
+
+Os braço atuador e responsável pelo movimento feito pela cabeça de leitura
+
+O atuador é um pequeno motor que é responsável pela supervisão do movimento do braço e responsável pelos dados que estão sendo gravados .
+   
+
+
+
+ Considerações Finais
+Os HDs, por possuírem partes móveis que funcionam em cadeia — onde cada componente depende do funcionamento adequado do anterior para que outro processo possa ser iniciado — acabam tendo uma desvantagem considerável em termos de velocidade, especialmente quando comparados aos SSDs, que não possuem partes móveis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCIAS 
+cmundo.com.br/aumentar-desempenho/3469-como-funciona-um-disco-rigido-.htm#:~:text=A%20gravação%20e%20a%20leitura%20dos%20dados%20são%20feitas%20através,trilhas%20medindo%20centésimos%20de%20milímetros.
+https://www.recuperacaodedadoshd.com.br/conheca-os-principais-componentes-de-um-hd/
+https://www.recuperacaodedadoshd.com.br/o-que-e-quais-as-vantagens-e-quanto-tempo-dura-um-ssd/
+https://www.superit.com.br/blog/discos-rigidos-e-ssd/discos-ssd-solid-state-drive-guia-completo-com-tudo-o-que-voce-precisa-saber/
